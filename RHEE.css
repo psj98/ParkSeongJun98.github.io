@@ -1,0 +1,82 @@
+.wrapper {
+    padding-top: 30px;
+}
+
+.main_header {
+    height: 200px;
+}
+
+.header_logo {
+    display: block;
+    background: url(./RHEE_로고.png);
+    background-repeat: no-repeat;
+    background-size: 120px;
+    width: 130px;
+    height: 130px;
+    margin-bottom: 50px;
+    float: left;
+    text-indent: -10000000em;
+    overflow: hidden;
+}
+
+.main_nav {
+    float: right;
+    line-height: 40px;
+}
+
+.main_nav ul {
+    overflow: hidden;
+}
+
+.main_nav ul li {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    float: left;
+    padding: 5px 30px;
+    margin: 0 10px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.main_nav ul li h1 {
+    font-size: 15px;
+}
+
+.main_body {
+    height: 1000px;
+}
+
+.main_footer {
+    padding-top: 20px;
+}
+
+.footer_social {
+    height: 70px;
+}
+
+.footer_social ul li a {
+    float: left;
+    display: block;
+    background-size: 30px;
+    background-repeat: no-repeat;
+    text-indent: -9999px;
+    width: 45px;
+    height: 45px;
+    margin: 10px;
+    border-radius: 50%;
+    border: 3px solid black;
+    background-position: 50%;
+}
+
+.insta_logo a {
+    background: url(./instagram.png);
+}
+
+.facebook_logo a {
+    background: url(./facebook.png);
+}
+
+.twitter_logo a {
+    background: url(./twitter.png);
+}
